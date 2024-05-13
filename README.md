@@ -39,7 +39,7 @@
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/isabellaarg/isabellaarg/blob/main/img/developer.gif?raw=true" width="340px" height="520px"/>
+<img align="right" alt="GIF" src="https://github.com/isabellaarg/isabellaarg/blob/main/img/dev3.gif?raw=true" width="340px" height="520px"/>
 </div>
 
 <img height="20" alt="GIF" src="https://github.com/isabellaarg/isabellaarg/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
