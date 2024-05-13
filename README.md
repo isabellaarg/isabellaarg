@@ -1,5 +1,5 @@
 <div>
-<img align="center" alt="Header" src="https://github.com/isabellaarg/isabellaarg/blob/main/img/img/headertech.jpg?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/isabellaarg/isabellaarg/blob/main/img/headertech.jpg?raw=true"/>
 </div>
 
 -----
