@@ -34,8 +34,11 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Aramuni</code>, tenho 33 anos, moro em BH e sou programador desde os 15 anos de idade. Atualmente sou <code>professor</code> nos cursos de Ciência da Computação, Sistemas de Informação e Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e também nos cursos de Engenharia de Software e Ciência da Computação da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
-</div>
+<i><b>Olá</b> 👋, sou a <code>Isabella</code>, tenho 24 anos, moro em BH e sou estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Newton Paiva. Atualmente trabalho na Localiza como assistente de atendimento.</i> 🖥️📞
+
+Olá! 👋 Sou a Isabella, tenho 24 anos e moro em BH. Atualmente, estudo Análise e Desenvolvimento de Sistemas no Centro Universitário Newton Paiva. Além disso, trabalho na Localiza como assistente de atendimento. 🖥️📞
+
+
 
 <div>
 <div>
