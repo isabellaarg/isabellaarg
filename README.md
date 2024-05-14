@@ -41,19 +41,18 @@
 
 <div align="justify">
 <p> 
-- :👨‍🏫: &nbsp; Estudante focada em front-end, com interesse em Java.
+- 👨‍🏫 &nbsp; Estudante focada em front-end, com interesse em Java.
 <br />
-- :🎨: &nbsp; Interessada em tópicos relacionados a design gráfico.
+- 🎨 &nbsp; Interessada em tópicos relacionados a design gráfico.
 <br />
-- :⚽: &nbsp; Fiel torcedora do Barcelona FC, especialmente do time feminino.
+- ⚽ &nbsp; Fiel torcedora do Barcelona FC, especialmente do time feminino.
 <br />
-- :⚾: &nbsp; Gosto de assistir alguns jogos da MLB.
+- ⚾ &nbsp; Gosto de assistir alguns jogos da MLB.
 <br />
-- :🌐: &nbsp; Fluente em inglês (nível C2) e nativa em espanhol.
+- 🌐 &nbsp; Fluente em inglês (nível C2) e nativa em espanhol.
 <br />
-- :🎾: &nbsp; Gosto de jogar tênis, pingue-pongue e nadar.
+- 🎾 &nbsp; Gosto de jogar tênis, pingue-pongue e nadar.
 <br />
-- :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:afiisabellaalexandra@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 - :calendar: &nbsp; Essa é minha <a href="https://calendly.com/afiisabellaalexandra/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
 </p>
