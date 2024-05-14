@@ -1,5 +1,5 @@
 <div>
-<img align="center" alt="Header" src="https://github.com/isabellaarg/isabellaarg/blob/main/img/banner.jpg?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/isabellaarg/isabellaarg/blob/main/img/banner.png?raw=true"/>
 </div>
 
 <div align="center">
