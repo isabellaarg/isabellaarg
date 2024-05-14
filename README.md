@@ -1,5 +1,5 @@
 <div>
-<img align="center" alt="Header" src="https://github.com/isabellaarg/isabellaarg/blob/main/img/banner.png?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/isabellaarg/isabellaarg/blob/main/img/banner.jpg?raw=true"/>
 </div>
 
 <div align="center">
@@ -10,17 +10,17 @@
 <tr>
 <td><a href="https://github.com/isabellaarg" target="_blank"><img src="https://github.com/isabellaarg/isabellaarg/blob/main/img/github.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://replit.com/@aramuni"><img src="https://github.com/isabellaarg/isabellaarg/blob/main/img/replit2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://replit.com/@afiisabellaalex"><img src="https://github.com/isabellaarg/isabellaarg/blob/main/img/replit2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="mailto:isabellaarg@gmail.com" target="_blank"><img src="https://github.com/isabellaarg/isabellaarg/blob/main/img/gmail2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531980402103" target="_blank"><img src="https://github.com/isabellaarg/isabellaarg/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5531971153787" target="_blank"><img src="https://github.com/isabellaarg/isabellaarg/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/isabellaarg/" target="_blank"><img src="https://github.com/isabellaarg/isabellaarg/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/isabella.arg/" target="_blank"><img src="https://github.com/isabellaarg/isabellaarg/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/isabellaarg/" target="_blank"><img src="https://github.com/isabellaarg/isabellaarg/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/isabella-alexandra-rojas-guzm%C3%A1n-aa9046167/" target="_blank"><img src="https://github.com/isabellaarg/isabellaarg/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://calendly.com/aramuni/" target="_blank"><img src="https://github.com/isabellaarg/isabellaarg/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://calendly.com/afiisabellaalexandra/30min" target="_blank"><img src="https://github.com/isabellaarg/isabellaarg/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
