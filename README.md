@@ -1,5 +1,5 @@
 <div>
-<img align="center" alt="Header" src="https://github.com/isabellaarg/isabellaarg/blob/main/img/banner.png?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/isabellaarg/isabellaarg/blob/main/img/banner.jpg?raw=true"/>
 </div>
 
 <div align="center">
@@ -34,7 +34,7 @@
 </div>
 
 <div>
-<img align="right" alt="GIF" src="https://github.com/isabellaarg/isabellaarg/blob/main/img/dev3.gif?raw=true" width="340px" height="520px"/>
+<img align="right" alt="GIF" src="https://github.com/isabellaarg/isabellaarg/blob/main/img/dev4.gif?raw=true" width="340px" height="520px"/>
 </div>
 
 <img height="20" alt="GIF" src="https://github.com/isabellaarg/isabellaarg/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
@@ -76,11 +76,11 @@
  
 </details>
 </div>
------
+
 <div>
 <img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=chabelalola&cover_image=true&theme=default"/> &nbsp; &nbsp; 
 <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=chabelalola&count=10"/>
 </div>
 <div>
------
+
 
